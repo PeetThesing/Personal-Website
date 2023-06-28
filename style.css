@@ -1,7 +1,8 @@
 * {
   box-sizing: border-box;
-  color: purple;
+  color: white;
   font: arial;
+  background: purple;
 }
 
 h1,
@@ -12,7 +13,7 @@ h3 {
 }
 
 .box {
-  border: 10px solid purple;
+  border: 5px solid purple;
   background: linear-gradient(90deg, purple, black);
   color: white;
   padding: 20px;
