@@ -8,10 +8,13 @@ h1,
 h2,
 h3 {
   color: rgba(60, 2, 60, 0.795);
+  text-shadow: 0px 0px 5px #ffffff;
 }
 
 .box {
-  border: 10px solid blue;
+  border: 10px solid purple;
+  background: linear-gradient(90deg, purple, black);
+  color: white;
   padding: 20px;
   box-sizing: content-box;
   width: 600px;
