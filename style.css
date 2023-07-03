@@ -53,9 +53,10 @@ h3 {
   width: 15rem;
 }
 
-.AlignRow {
+.box--AlignRow {
   display: flex;
   flex-flow: wrap;
+  align-items: center;
 }
 .img {
   width: 3rem;
